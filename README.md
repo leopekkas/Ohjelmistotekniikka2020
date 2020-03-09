@@ -1,0 +1,2 @@
+# Ohjelmistotekniikka2020
+Kansio kevään Ohjelmistotekniikan kurssille Helsingin yliopiston tietojenkäsittelytieteen kandiohjelmassa
